@@ -1,5 +1,5 @@
 ### Transit-Booking-Platform
-This project is a Transit-Booking-Platform offering functionalities for both customers and administrators.
+This project implements a comprehensive Transit-Booking-Platform with functionalities tailored for both customers and administrators. The system is designed to streamline the booking process, manage bus routes, and handle customer registrations efficiently.
 
 #### Features
 
